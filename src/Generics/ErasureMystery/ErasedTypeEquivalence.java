@@ -1,4 +1,4 @@
-package Generics;
+package Generics.ErasureMystery;
 
 import java.util.ArrayList;
 
